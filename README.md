@@ -14,7 +14,7 @@ Xem toàn bộ file theo từng trang:
 Get-Content .\server_log_500MB.log | more
 
 
-Xem 10 dòng cuối:
+Xem 10 dòng cuối ;
 
 Get-Content .\server_log_500MB.log -Tail 10
 
